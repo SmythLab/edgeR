@@ -4,8 +4,10 @@ Questions about limpa can be sent to the Bioconductor support forum at https://s
 This repository is used to host edgeR documentation.
 The following vignettes and example analyses using are available:
 
+* [Differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline](https://bioconductor.org/packages/release/workflows/vignettes/RnaSeqGeneEdgeRQL/inst/doc/edgeRQL.html)
+* [edgeR User's Guide](https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
 * [Datasets used in the edgeR User's Guide](https://bioinf.wehi.edu.au/edgeR/index.html)
-* [limpa Reference Manual (pdf)](https://bioconductor.org/packages/release/bioc/manuals/edgeR/man/edgeR.pdf)
+* [edgeR Reference Manual (pdf)](https://bioconductor.org/packages/release/bioc/manuals/edgeR/man/edgeR.pdf)
 
 **References**
 
