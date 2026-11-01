@@ -1,5 +1,5 @@
 edgeR is available as part of Bioconductor, see: <https://bioconductor.org/packages/edgeR>.
-Questions about limpa can be sent to the Bioconductor support forum at https://support.bioconductor.org.
+Questions about edgeR can be sent to the Bioconductor support forum at https://support.bioconductor.org.
 
 This repository is used to host edgeR documentation.
 The following vignettes and example analyses using are available:
