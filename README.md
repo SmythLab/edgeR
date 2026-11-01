@@ -1,4 +1,6 @@
 edgeR is available as part of Bioconductor, see: <https://bioconductor.org/packages/edgeR>.
+See that link also to browse or clone the edgeR source code.
+
 Questions about edgeR can be sent to the Bioconductor support forum at https://support.bioconductor.org.
 
 This repository is used to host edgeR documentation.
